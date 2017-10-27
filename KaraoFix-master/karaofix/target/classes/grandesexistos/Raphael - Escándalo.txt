@@ -1,0 +1,10 @@
+#ARTIST:Raphael
+#TITLE:Escándalo
+#LANGUAGE:Español
+#YEAR:1991
+#COVER:Raphael - Escándalo [CO].jpg
+#MP3:Raphael - Escándalo.mp3
+#VIDEO:Raphael - Escándalo.mp4
+#VIDEOGAP:-5,3
+#END:291810
+#CREATOR:Volodia
